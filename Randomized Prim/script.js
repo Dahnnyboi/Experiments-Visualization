@@ -16,7 +16,7 @@ let wallList = [];
 let nextCell;
 
 function setup(){
-  createCanvas(600, 400);
+  createCanvas(400, 400);
   cols = width / w;
   rows = height / w;
 
